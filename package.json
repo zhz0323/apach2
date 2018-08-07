@@ -1,0 +1,23 @@
+{
+  "name": "appcha2",
+  "version": "1.0.0",
+  "description": "基于node静态服务器",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhz0323/apach2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhz0323/apach2/issues"
+  },
+  "homepage": "https://github.com/zhz0323/apach2#readme",
+  "dependencies": {
+    "mime": "^2.3.1"
+  }
+}
